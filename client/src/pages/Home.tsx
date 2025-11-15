@@ -235,7 +235,7 @@ export default function Home() {
           </p>
           <div className="flex gap-4 justify-center">
             <a
-              href="inaciogabriel0342@gmail.com"
+              href="mailto:inaciogabriel0342@gmail.com"
               className="inline-flex items-center gap-2 bg-white text-black px-6 py-3 rounded hover:bg-gray-200 transition-colors font-semibold"
             >
               <Mail size={20} /> Email
@@ -244,6 +244,7 @@ export default function Home() {
               href="https://github.com/Inaciogabriel0"
               className="inline-flex items-center gap-2 border border-gray-600 text-white px-6 py-3 rounded hover:bg-gray-900 transition-colors font-semibold"
             >
+
               <Github size={20} /> GitHub
             </a>
             <a
