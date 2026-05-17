@@ -69,6 +69,7 @@ export default function Home() {
     "Axios",
     "Sqlite",
     "MySQL",
+    "Golang",
   ];
 
   return (
