@@ -42,6 +42,12 @@ export default function Home() {
       tags: ["laravel", "mysql", "API RESTful", "php", "postman"],
       link: "https://github.com/Inaciogabriel0/Primeira-api-com-laravel",
     },
+    {
+      title: "Sistema de Autenticação com laravel e Vue.js",
+      description: "Este projeto foi desenvolvido com o objetivo de aprofundar meus conhecimentos em arquitetura Full Stack, trabalhando o Front-end e o Back-end de forma separada para compreender melhor o fluxo de comunicação entre aplicações modernas.",
+      tags: ["laravel", "vue.js", "API RESTful", "php", "postman", "Vuetify", "JWT", "Pinia", "Axios"],
+      link: "https://github.com/Inaciogabriel0/Sistema-de-Autentica-o-com-laravel-e-vue.js",
+    },
   ];
 
   const skills = [
@@ -57,7 +63,12 @@ export default function Home() {
     "Git e Controle de Versão",
     "Testes e Depuração",
     "Metodologias Ágeis",
-    
+    "JWT",
+    "Vuetify",
+    "Pinia",
+    "Axios",
+    "Sqlite",
+    "MySQL",
   ];
 
   return (
