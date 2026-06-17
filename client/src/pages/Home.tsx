@@ -27,7 +27,7 @@ export default function Home() {
     {
       title: "Causa solidaria",
       description: "Uma aplicação em desenvolvimento para ajudar pessoas necessitadas por meio de doações.",
-      tags: ["React", "TypeScript", "next.js"],
+      tags: ["React", "TypeScript", "next.js", "bcrypt", "jwt", "prisma", "sqlite", "chakra ui"],
       link: "https://github.com/Causa-Solidaria/causa-solidaria.github.io",
     },
     {
@@ -47,6 +47,12 @@ export default function Home() {
       description: "Este projeto foi desenvolvido com o objetivo de aprofundar meus conhecimentos em arquitetura Full Stack, trabalhando o Front-end e o Back-end de forma separada para compreender melhor o fluxo de comunicação entre aplicações modernas.",
       tags: ["laravel", "vue.js", "API RESTful", "php", "postman", "Vuetify", "JWT", "Pinia", "Axios"],
       link: "https://github.com/Inaciogabriel0/Sistema-de-Autentica-o-com-laravel-e-vue.js",
+    },
+    {
+      title: "API RESTful com JWT",
+      description: "API RESTful desenvolvida com Go para gerenciar um catálogo de produtos, incluindo funcionalidades de criação, leitura, atualização e exclusão (CRUD).",
+      tags: ["Go", "Gin", "API RESTful", "JWT", "postman", "PostegresQL", "docker", "GORM", "bcrypt", "Postman"],
+      link: "https://github.com/Inaciogabriel0/auth-api",
     },
   ];
 
@@ -70,6 +76,11 @@ export default function Home() {
     "Sqlite",
     "MySQL",
     "Golang",
+    "prisma",
+    "Gin",
+    "Gorm",
+    "bcrypt",
+    "postegresql"
   ];
 
   return (
