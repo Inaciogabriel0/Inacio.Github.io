@@ -49,7 +49,7 @@ export default function Home() {
       link: "https://github.com/Inaciogabriel0/Sistema-de-Autentica-o-com-laravel-e-vue.js",
     },
     {
-      title: "API RESTful com JWT",
+      title: "API de autenticação com Golang",
       description: "API RESTful desenvolvida com Go para gerenciar um catálogo de produtos, incluindo funcionalidades de criação, leitura, atualização e exclusão (CRUD).",
       tags: ["Go", "Gin", "API RESTful", "JWT", "postman", "PostegresQL", "docker", "GORM", "bcrypt", "Postman"],
       link: "https://github.com/Inaciogabriel0/auth-api",
